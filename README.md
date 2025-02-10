@@ -8,7 +8,7 @@ Sistema de predição de preços de imóveis em Nova York baseado em caracterís
 ### Instalação
 ```bash
 # Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repo.git
+git clone https://github.com/lucas-ponte-e-silva/projeto.git
 cd nome-do-repo
 
 # Crie um ambiente virtual
